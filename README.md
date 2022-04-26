@@ -4,7 +4,6 @@
 Pluralsight is an online learning and workforce development platform that helps businesses and individuals adjust to changing technology.
 
 
-
 ---
 
 ### Team Members
@@ -66,8 +65,13 @@ Pluralsight is an online learning and workforce development platform that helps 
 ---
 
 ### Medium Link
+https://medium.com/@rkvirajgupta/cloning-of-a-website-pluralsight-a6116af1f108
 
-https://medium.com/@abhijeetchaudhari110/pluralsight-clone-f12f5a3e042e
+
+
+### Netlify Link
+
+plurlsightclone.netlify.app
 
 
 
