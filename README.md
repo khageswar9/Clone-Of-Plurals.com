@@ -71,7 +71,7 @@ https://medium.com/@rkvirajgupta/cloning-of-a-website-pluralsight-a6116af1f108
 
 ### Netlify Link
 
-plurlsightclone.netlify.app
+https://plurlsightclone.netlify.app
 
 
 
