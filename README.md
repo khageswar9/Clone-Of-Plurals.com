@@ -3,6 +3,16 @@
 ### Project Description
 Pluralsight is an online learning and workforce development platform that helps businesses and individuals adjust to changing technology.
 
+---
+
+### Medium Link
+https://medium.com/@rkvirajgupta/cloning-of-a-website-pluralsight-a6116af1f108
+
+### Netlify Link
+
+https://plurlsightclone.netlify.app
+
+---
 
 ---
 
