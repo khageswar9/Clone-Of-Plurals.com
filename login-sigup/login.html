@@ -19,7 +19,7 @@
           </div>
           <form>
             <div>
-              <label>Email or Username</label>
+              <label>Email</label>
               <input type="text" class="text-input" id="email" />
             </div>
             <div>
@@ -75,18 +75,51 @@
 </html>
 
 <script>
+
+ 
+
+
+
+
   document.querySelector("form").addEventListener("submit", (event) => {
     event.preventDefault();
 
     var input1 = document.querySelector("#email").value;
     var input2 = document.querySelector("#password").value;
+     
+    console.log(input1,input2)
 
-    if (input1 == "") {
-      alert("Email or Username must be filled out");
-    } else if (input2 == "") {
-      alert("Password must be filled out");
-    } else if (input1 !== "" && input2 !== "") {
-      window.location.href = "pricing.html";
+    let detailsarr = JSON.parse(localStorage.getItem('details'))||[]
+    
+    if(input1.length==0&&input2.length==0){
+      alert("please fill email and password")
     }
+    else{
+      let counter =0,flag=false;
+     console.log(detailsarr)
+    for(let  i =0;i<detailsarr.length;i++){
+      counter++;
+      if(detailsarr[i].email==input1&&detailsarr[i].password==input2){
+        alert("successfull login")
+        flag=true;
+        localStorage.setItem('user',JSON.stringify(detailsarr[i].first_name))
+        window.location.href = "../homepage/index.html";
+        break;
+      }
+      
+    }
+    if(counter==detailsarr.length&&flag==false){
+          alert("register first");
+          window.location.href = "../pricinng/pricing.html";
+
+    }
+    }
+ 
   });
+
+
+    
+
+
+
 </script>
