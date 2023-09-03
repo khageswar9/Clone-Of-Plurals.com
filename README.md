@@ -8,10 +8,6 @@ Pluralsight is an online learning and workforce development platform that helps 
 ### Medium Link
 https://medium.com/@rkvirajgupta/cloning-of-a-website-pluralsight-a6116af1f108
 
-### Netlify Link
-
-https://plurlsightclone.netlify.app
-
 ---
 
 ---
@@ -76,14 +72,6 @@ https://plurlsightclone.netlify.app
 
 ### Medium Link
 https://medium.com/@rkvirajgupta/cloning-of-a-website-pluralsight-a6116af1f108
-
-
-
-### Netlify Link
-
-https://plurlsightclone.netlify.app
-
-
 
 
 
