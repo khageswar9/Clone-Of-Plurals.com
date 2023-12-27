@@ -1,6 +1,7 @@
 ### Pluralsight Clone
 
 ### Project Description
+
 Pluralsight is an online learning and workforce development platform that helps businesses and individuals adjust to changing technology.
 
 ---
@@ -12,7 +13,7 @@ https://medium.com/@rkvirajgupta/cloning-of-a-website-pluralsight-a6116af1f108
 
 ### Netlify Link
  
-https://plurlsightclone.netlify.app/
+https://plurlsightclone.netlify.app/homepage/index.html
 
 ---
 
@@ -22,8 +23,6 @@ https://plurlsightclone.netlify.app/
 - **[Abhijeet Chaudhari](https://github.com/Abhi-lab2)**
 - **[Viraj Gupta](https://github.com/rkvirajgupta/)**
 - **[Vikash](https://github.com/VikashBhurji)**
-
----
 
 ---
 
@@ -80,6 +79,7 @@ https://medium.com/@rkvirajgupta/cloning-of-a-website-pluralsight-a6116af1f108
 ---
 
 ### Netlify Link
-https://plurlsightclone.netlify.app/
+
+https://plurlsightclone.netlify.app/homepage/index.html
 
 ---
